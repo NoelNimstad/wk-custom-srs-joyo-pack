@@ -1,0 +1,3712 @@
+{
+    "name": "Complete The Joyo Kanji Pack",
+    "author": "Jisho & Nimstad",
+    "version": "1.0",
+    "items": [
+        {
+            "id": 0,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "蚕",
+                "meanings": [
+                    "silkworm"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "さん",
+                    "てん"
+                ],
+                "kunyomi": [
+                    "かいこ",
+                    "こ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 1,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "曖",
+                "meanings": [
+                    "dark",
+                    "not clear"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "あい"
+                ],
+                "kunyomi": [
+                    "くら"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 2,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "畏",
+                "meanings": [
+                    "fear",
+                    "majestic",
+                    "graciously",
+                    "be apprehensive"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "い"
+                ],
+                "kunyomi": [
+                    "おそ",
+                    "かしこま",
+                    "かしこ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 3,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "萎",
+                "meanings": [
+                    "wither",
+                    "droop",
+                    "lame"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "い"
+                ],
+                "kunyomi": [
+                    "な",
+                    "しお",
+                    "しな",
+                    "しぼ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 4,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "彙",
+                "meanings": [
+                    "same kind",
+                    "collect",
+                    "classify",
+                    "category",
+                    "hedgehog"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "い"
+                ],
+                "kunyomi": [
+                    "はりねずみ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 5,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "壱",
+                "meanings": [
+                    "one (in documents)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "いち",
+                    "いつ"
+                ],
+                "kunyomi": [
+                    "ひとつ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 6,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "咽",
+                "meanings": [
+                    "throat",
+                    "choked",
+                    "smothered",
+                    "stuffy"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "いん",
+                    "えん",
+                    "えつ"
+                ],
+                "kunyomi": [
+                    "むせ",
+                    "のど",
+                    "の"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 7,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "淫",
+                "meanings": [
+                    "lewdness",
+                    "licentiousness"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "いん"
+                ],
+                "kunyomi": [
+                    "ひた",
+                    "ほしいまま",
+                    "みだ",
+                    "みだり"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 8,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "韻",
+                "meanings": [
+                    "rhyme",
+                    "elegance",
+                    "tone"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "いん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 9,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "畝",
+                "meanings": [
+                    "furrow",
+                    "thirty tsubo",
+                    "ridge",
+                    "rib"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぼう",
+                    "ほ",
+                    "も",
+                    "む"
+                ],
+                "kunyomi": [
+                    "せ",
+                    "うね"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 10,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "謁",
+                "meanings": [
+                    "audience",
+                    "audience (with king)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "えつ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 11,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "怨",
+                "meanings": [
+                    "grudge",
+                    "show resentment",
+                    "be jealous"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "えん",
+                    "おん",
+                    "うん"
+                ],
+                "kunyomi": [
+                    "うら",
+                    "うらみ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 12,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "艶",
+                "meanings": [
+                    "glossy",
+                    "luster",
+                    "glaze",
+                    "polish",
+                    "charm",
+                    "colorful",
+                    "captivating"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "えん"
+                ],
+                "kunyomi": [
+                    "つや",
+                    "なま",
+                    "あで"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 13,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "旺",
+                "meanings": [
+                    "flourishing",
+                    "successful",
+                    "beautiful",
+                    "vigorous"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "おう",
+                    "きょう",
+                    "ごう"
+                ],
+                "kunyomi": [
+                    "かがや",
+                    "うつくし",
+                    "さかん"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 14,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "翁",
+                "meanings": [
+                    "venerable old man"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "おう"
+                ],
+                "kunyomi": [
+                    "おきな"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 15,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "臆",
+                "meanings": [
+                    "timidity",
+                    "heart",
+                    "mind",
+                    "fear",
+                    "cowardly"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "おく",
+                    "よく"
+                ],
+                "kunyomi": [
+                    "むね",
+                    "おくする"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 16,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "虞",
+                "meanings": [
+                    "fear",
+                    "uneasiness",
+                    "anxiety",
+                    "concern",
+                    "expectation",
+                    "consideration"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぐ"
+                ],
+                "kunyomi": [
+                    "おそれ",
+                    "おもんぱか",
+                    "はか",
+                    "うれ",
+                    "あざむ",
+                    "あやま",
+                    "のぞ",
+                    "たの"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 17,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "箇",
+                "meanings": [
+                    "counter for articles"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "か",
+                    "こ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 18,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "瓦",
+                "meanings": [
+                    "tile",
+                    "gram"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "が"
+                ],
+                "kunyomi": [
+                    "かわら",
+                    "ぐらむ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 19,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "楷",
+                "meanings": [
+                    "square character style",
+                    "correctness"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かい"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 20,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "潰",
+                "meanings": [
+                    "crush",
+                    "smash",
+                    "break",
+                    "dissipate"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かい",
+                    "え"
+                ],
+                "kunyomi": [
+                    "つぶ",
+                    "つい"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 21,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "諧",
+                "meanings": [
+                    "harmony"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かい"
+                ],
+                "kunyomi": [
+                    "かな",
+                    "やわ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 22,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "蓋",
+                "meanings": [
+                    "cover",
+                    "lid",
+                    "flap"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "がい",
+                    "かい",
+                    "こう"
+                ],
+                "kunyomi": [
+                    "ふた",
+                    "けだ",
+                    "おお",
+                    "かさ",
+                    "かこう"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 23,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "骸",
+                "meanings": [
+                    "bone",
+                    "body",
+                    "corpse"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "がい",
+                    "かい"
+                ],
+                "kunyomi": [
+                    "むくろ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 24,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "柿",
+                "meanings": [
+                    "persimmon"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "し"
+                ],
+                "kunyomi": [
+                    "かき"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 25,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嚇",
+                "meanings": [
+                    "menacing",
+                    "dignity",
+                    "majesty",
+                    "threaten"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かく"
+                ],
+                "kunyomi": [
+                    "おど"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 26,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "顎",
+                "meanings": [
+                    "jaw",
+                    "chin",
+                    "gill"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "がく"
+                ],
+                "kunyomi": [
+                    "あご",
+                    "あぎと"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 27,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "葛",
+                "meanings": [
+                    "arrowroot",
+                    "kudzu"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かつ",
+                    "かち"
+                ],
+                "kunyomi": [
+                    "つづら",
+                    "くず"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 28,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "褐",
+                "meanings": [
+                    "brown",
+                    "woollen kimono"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かつ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 29,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "釜",
+                "meanings": [
+                    "kettle",
+                    "cauldron",
+                    "iron pot"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ふ"
+                ],
+                "kunyomi": [
+                    "かま"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 30,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "棺",
+                "meanings": [
+                    "coffin",
+                    "casket"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "かん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 31,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "玩",
+                "meanings": [
+                    "play",
+                    "take pleasure in",
+                    "trifle with",
+                    "make sport of"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "がん"
+                ],
+                "kunyomi": [
+                    "もちあそ",
+                    "もてあそ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 32,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "毀",
+                "meanings": [
+                    "break",
+                    "destroy",
+                    "censure",
+                    "be chipped",
+                    "be scratched",
+                    "be broken",
+                    "be ruined"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "き"
+                ],
+                "kunyomi": [
+                    "こぼ",
+                    "こわ",
+                    "そし",
+                    "やぶ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 33,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "畿",
+                "meanings": [
+                    "capital",
+                    "suburbs of capital"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "き"
+                ],
+                "kunyomi": [
+                    "みやこ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 34,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "臼",
+                "meanings": [
+                    "mortar"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "きゅう",
+                    "ぐ"
+                ],
+                "kunyomi": [
+                    "うす",
+                    "うすづ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 35,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嗅",
+                "meanings": [
+                    "smell",
+                    "sniff",
+                    "scent"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "きゅう"
+                ],
+                "kunyomi": [
+                    "か"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 36,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "僅",
+                "meanings": [
+                    "a wee bit"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "きん",
+                    "ごん"
+                ],
+                "kunyomi": [
+                    "わず"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 37,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "惧",
+                "meanings": [
+                    "fear",
+                    "be afraid of",
+                    "dread"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "く",
+                    "ぐ"
+                ],
+                "kunyomi": [
+                    "おそ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 38,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "窟",
+                "meanings": [
+                    "cavern"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "くつ",
+                    "こつ"
+                ],
+                "kunyomi": [
+                    "いわや",
+                    "いはや",
+                    "あな"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 39,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "薫",
+                "meanings": [
+                    "send forth fragrance",
+                    "fragrant",
+                    "be scented",
+                    "smoke (tobacco)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "くん"
+                ],
+                "kunyomi": [
+                    "かお"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 40,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "詣",
+                "meanings": [
+                    "visit a temple",
+                    "arrive",
+                    "attain"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "けい",
+                    "げい"
+                ],
+                "kunyomi": [
+                    "けい",
+                    "まい",
+                    "いた",
+                    "もう"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 41,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "憬",
+                "meanings": [
+                    "yearn for",
+                    "aspire to",
+                    "admire"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "けい"
+                ],
+                "kunyomi": [
+                    "あこが"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 42,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "稽",
+                "meanings": [
+                    "think",
+                    "consider"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "けい"
+                ],
+                "kunyomi": [
+                    "かんが",
+                    "とど"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 43,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "桁",
+                "meanings": [
+                    "beam",
+                    "girder",
+                    "spar",
+                    "unit or column (accounting)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こう"
+                ],
+                "kunyomi": [
+                    "けた"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 44,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "繭",
+                "meanings": [
+                    "cocoon"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "けん"
+                ],
+                "kunyomi": [
+                    "まゆ",
+                    "きぬ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 45,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "舷",
+                "meanings": [
+                    "gunwale"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "げん"
+                ],
+                "kunyomi": [
+                    "ふなばた",
+                    "ふなべり"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 46,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "錮",
+                "meanings": [
+                    "confinement",
+                    "to tie"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こ"
+                ],
+                "kunyomi": [
+                    "ふさ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 47,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "勾",
+                "meanings": [
+                    "be bent",
+                    "slope",
+                    "capture"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こう",
+                    "く"
+                ],
+                "kunyomi": [
+                    "かぎ",
+                    "ま"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 48,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "侯",
+                "meanings": [
+                    "marquis",
+                    "lord",
+                    "daimyo"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 49,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "梗",
+                "meanings": [
+                    "for the most part",
+                    "close up",
+                    "flower stem"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こう",
+                    "きょう"
+                ],
+                "kunyomi": [
+                    "ふさぐ",
+                    "やまにれ",
+                    "おおむね"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 50,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "乞",
+                "meanings": [
+                    "beg",
+                    "invite",
+                    "ask"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こつ",
+                    "きつ",
+                    "き",
+                    "きけ",
+                    "こち"
+                ],
+                "kunyomi": [
+                    "こ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 51,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "痕",
+                "meanings": [
+                    "mark",
+                    "foot print"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こん"
+                ],
+                "kunyomi": [
+                    "あと"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 52,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "墾",
+                "meanings": [
+                    "ground-breaking",
+                    "open up farmland"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "こん"
+                ],
+                "kunyomi": [
+                    "は",
+                    "ひら"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 53,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "挫",
+                "meanings": [
+                    "crush",
+                    "break",
+                    "sprain",
+                    "discourage"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ざ",
+                    "さ"
+                ],
+                "kunyomi": [
+                    "くじ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 54,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "采",
+                "meanings": [
+                    "dice",
+                    "form",
+                    "appearance",
+                    "take",
+                    "gather",
+                    "coloring"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "さい"
+                ],
+                "kunyomi": [
+                    "と",
+                    "いろどり"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 55,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "塞",
+                "meanings": [
+                    "close",
+                    "shut",
+                    "cover",
+                    "block",
+                    "obstruct"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "そく",
+                    "さい"
+                ],
+                "kunyomi": [
+                    "ふさ",
+                    "とりで",
+                    "み"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 56,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "刹",
+                "meanings": [
+                    "temple"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せち",
+                    "せつ",
+                    "さつ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 57,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "恣",
+                "meanings": [
+                    "selfish",
+                    "arbitrary"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "し"
+                ],
+                "kunyomi": [
+                    "ほしいまま"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 58,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嗣",
+                "meanings": [
+                    "heir",
+                    "succeed"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "し"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 59,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "摯",
+                "meanings": [
+                    "gift",
+                    "seriousness"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "し"
+                ],
+                "kunyomi": [
+                    "いた",
+                    "つか",
+                    "にえ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 60,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "賜",
+                "meanings": [
+                    "grant",
+                    "gift",
+                    "boon",
+                    "results"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "し"
+                ],
+                "kunyomi": [
+                    "たまわ",
+                    "たま",
+                    "たも"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 61,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "餌",
+                "meanings": [
+                    "food",
+                    "bait",
+                    "prey",
+                    "tempting profit"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "じ",
+                    "に"
+                ],
+                "kunyomi": [
+                    "え",
+                    "えば",
+                    "えさ",
+                    "もち"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 62,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "璽",
+                "meanings": [
+                    "emperor&#39;s seal"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "じ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 63,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嫉",
+                "meanings": [
+                    "jealous",
+                    "envy"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しつ"
+                ],
+                "kunyomi": [
+                    "そね",
+                    "ねた",
+                    "にく"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 64,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "爵",
+                "meanings": [
+                    "baron",
+                    "peerage",
+                    "court rank"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しゃく"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 65,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "腫",
+                "meanings": [
+                    "tumor",
+                    "swelling"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しゅ",
+                    "しょう"
+                ],
+                "kunyomi": [
+                    "は",
+                    "はれもの"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 66,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "儒",
+                "meanings": [
+                    "Confucian"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "じゅ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 67,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "羞",
+                "meanings": [
+                    "feel ashamed"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しゅう"
+                ],
+                "kunyomi": [
+                    "はじ",
+                    "すすめ",
+                    "は"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 68,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "愁",
+                "meanings": [
+                    "distress",
+                    "grieve",
+                    "lament",
+                    "be anxious"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しゅう"
+                ],
+                "kunyomi": [
+                    "うれ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 69,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "遵",
+                "meanings": [
+                    "abide by",
+                    "follow",
+                    "obey",
+                    "learn"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "じゅん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 70,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "抄",
+                "meanings": [
+                    "extract",
+                    "selection",
+                    "summary",
+                    "copy",
+                    "spread thin"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しょう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 71,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "宵",
+                "meanings": [
+                    "wee hours",
+                    "evening",
+                    "early night"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しょう"
+                ],
+                "kunyomi": [
+                    "よい"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 72,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "硝",
+                "meanings": [
+                    "nitrate",
+                    "saltpeter"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しょう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 73,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "詔",
+                "meanings": [
+                    "imperial edict"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しょう"
+                ],
+                "kunyomi": [
+                    "みことのり"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 74,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "拭",
+                "meanings": [
+                    "wipe",
+                    "mop",
+                    "swab"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しょく",
+                    "しき"
+                ],
+                "kunyomi": [
+                    "ぬぐ",
+                    "ふ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 75,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "薪",
+                "meanings": [
+                    "fuel",
+                    "firewood",
+                    "kindling"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "しん"
+                ],
+                "kunyomi": [
+                    "たきぎ",
+                    "まき"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 76,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "腎",
+                "meanings": [
+                    "kidney"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "じん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 77,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "裾",
+                "meanings": [
+                    "cuff",
+                    "hem",
+                    "foot of mountain"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "きょ",
+                    "こ"
+                ],
+                "kunyomi": [
+                    "すそ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 78,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "醒",
+                "meanings": [
+                    "awake",
+                    "be disillusioned",
+                    "sober up"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せい"
+                ],
+                "kunyomi": [
+                    "さ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 79,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "斥",
+                "meanings": [
+                    "reject",
+                    "retreat",
+                    "recede",
+                    "withdraw",
+                    "repel",
+                    "repulse"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せき"
+                ],
+                "kunyomi": [
+                    "しりぞ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 80,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "腺",
+                "meanings": [
+                    "gland",
+                    "(kokuji)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 81,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "詮",
+                "meanings": [
+                    "discussion",
+                    "methods called for",
+                    "selection",
+                    "result"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せん"
+                ],
+                "kunyomi": [
+                    "せん",
+                    "かい",
+                    "あき"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 82,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "箋",
+                "meanings": [
+                    "paper",
+                    "label",
+                    "letter",
+                    "composition"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "せん"
+                ],
+                "kunyomi": [
+                    "ふだ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 83,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "膳",
+                "meanings": [
+                    "small low table",
+                    "tray"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぜん",
+                    "せん"
+                ],
+                "kunyomi": [
+                    "かしわ",
+                    "すす",
+                    "そな"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 84,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "繕",
+                "meanings": [
+                    "darning",
+                    "repair",
+                    "mend",
+                    "trim",
+                    "tidy up",
+                    "adjust"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぜん"
+                ],
+                "kunyomi": [
+                    "つくろ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 85,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "塑",
+                "meanings": [
+                    "model",
+                    "molding"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "そ"
+                ],
+                "kunyomi": [
+                    "でく"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 86,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "遡",
+                "meanings": [
+                    "go upstream",
+                    "retrace the past"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "そ",
+                    "さく"
+                ],
+                "kunyomi": [
+                    "さかのぼ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 87,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "曽",
+                "meanings": [
+                    "formerly",
+                    "once",
+                    "before",
+                    "ever",
+                    "never",
+                    "ex-"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "そう",
+                    "そ",
+                    "ぞう"
+                ],
+                "kunyomi": [
+                    "かつ",
+                    "かつて",
+                    "すなわち"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 88,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "踪",
+                "meanings": [
+                    "remains",
+                    "clue",
+                    "footprint"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "そう",
+                    "しょう"
+                ],
+                "kunyomi": [
+                    "あと"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 89,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "唾",
+                "meanings": [
+                    "saliva",
+                    "sputum"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "だ",
+                    "た"
+                ],
+                "kunyomi": [
+                    "つば",
+                    "つばき"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 90,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "堆",
+                "meanings": [
+                    "piled high"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "たい",
+                    "つい"
+                ],
+                "kunyomi": [
+                    "うずたか"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 91,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "但",
+                "meanings": [
+                    "however",
+                    "but"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "たん"
+                ],
+                "kunyomi": [
+                    "ただ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 92,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "綻",
+                "meanings": [
+                    "be rent",
+                    "ripped",
+                    "unravel",
+                    "run",
+                    "begin to open",
+                    "smile"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "たん"
+                ],
+                "kunyomi": [
+                    "ほころ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 93,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "緻",
+                "meanings": [
+                    "fine (i.e. not coarse)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ち"
+                ],
+                "kunyomi": [
+                    "こまか"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 94,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "逐",
+                "meanings": [
+                    "pursue",
+                    "drive away",
+                    "chase",
+                    "accomplish",
+                    "attain",
+                    "commit"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちく"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 95,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嫡",
+                "meanings": [
+                    "legitimate wife",
+                    "direct descent (non-bastard)"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちゃく",
+                    "てき"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 96,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "衷",
+                "meanings": [
+                    "inmost",
+                    "heart",
+                    "mind",
+                    "inside"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちゅう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 97,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "嘲",
+                "meanings": [
+                    "ridicule",
+                    "insult"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちょう",
+                    "とう"
+                ],
+                "kunyomi": [
+                    "あざけ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 98,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "勅",
+                "meanings": [
+                    "imperial order"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちょく"
+                ],
+                "kunyomi": [
+                    "いまし",
+                    "みことのり"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 99,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "捗",
+                "meanings": [
+                    "make progress"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちょく",
+                    "ほ"
+                ],
+                "kunyomi": [
+                    "はかど"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 100,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "朕",
+                "meanings": [
+                    "majestic plural",
+                    "imperial we"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 101,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "逓",
+                "meanings": [
+                    "relay",
+                    "in turn",
+                    "sending"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "てい"
+                ],
+                "kunyomi": [
+                    "かわ",
+                    "たがいに"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 102,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "溺",
+                "meanings": [
+                    "drown",
+                    "indulge"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "でき",
+                    "じょう",
+                    "にょう"
+                ],
+                "kunyomi": [
+                    "いばり",
+                    "おぼ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 103,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "填",
+                "meanings": [
+                    "fill in"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "てん",
+                    "ちん"
+                ],
+                "kunyomi": [
+                    "は",
+                    "うず",
+                    "しず",
+                    "ふさ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 104,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "妬",
+                "meanings": [
+                    "jealous",
+                    "envy"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "と",
+                    "つ"
+                ],
+                "kunyomi": [
+                    "ねた",
+                    "そね",
+                    "つも",
+                    "ふさ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 105,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "痘",
+                "meanings": [
+                    "pox",
+                    "smallpox"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "とう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 106,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "謄",
+                "meanings": [
+                    "mimeograph",
+                    "copy"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "とう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 107,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "頓",
+                "meanings": [
+                    "suddenly",
+                    "immediately",
+                    "in a hurry",
+                    "arrange",
+                    "stay in place",
+                    "bow",
+                    "kowtow"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "とん",
+                    "とつ"
+                ],
+                "kunyomi": [
+                    "にわか",
+                    "とん",
+                    "つまず",
+                    "とみ",
+                    "ぬかずく"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 108,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "貪",
+                "meanings": [
+                    "covet",
+                    "indulge in"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "たん",
+                    "どん",
+                    "とん"
+                ],
+                "kunyomi": [
+                    "むさぼ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 109,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "弐",
+                "meanings": [
+                    "II",
+                    "two",
+                    "second"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "に",
+                    "じ"
+                ],
+                "kunyomi": [
+                    "ふた",
+                    "そえ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 110,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "捻",
+                "meanings": [
+                    "twirl",
+                    "twist",
+                    "play with"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ねん",
+                    "じょう"
+                ],
+                "kunyomi": [
+                    "ね",
+                    "ねじ",
+                    "ひね"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 111,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "罵",
+                "meanings": [
+                    "abuse",
+                    "insult"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ば"
+                ],
+                "kunyomi": [
+                    "ののし"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 112,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "剥",
+                "meanings": [
+                    "come off",
+                    "peel",
+                    "fade",
+                    "discolor"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "はく",
+                    "ほく"
+                ],
+                "kunyomi": [
+                    "へ",
+                    "へず",
+                    "む",
+                    "は"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 113,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "氾",
+                "meanings": [
+                    "spread out",
+                    "wide"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "はん"
+                ],
+                "kunyomi": [
+                    "ひろ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 114,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "汎",
+                "meanings": [
+                    "pan-"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "はん",
+                    "ぶ",
+                    "ふう",
+                    "ほう",
+                    "ほん"
+                ],
+                "kunyomi": [
+                    "ただよ",
+                    "ひろ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 115,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "斑",
+                "meanings": [
+                    "spot",
+                    "blemish",
+                    "speck",
+                    "patches"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "はん"
+                ],
+                "kunyomi": [
+                    "ふ",
+                    "まだら"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 116,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "頒",
+                "meanings": [
+                    "distribute",
+                    "disseminate",
+                    "partition",
+                    "understand"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "はん"
+                ],
+                "kunyomi": [
+                    "わ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 117,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "肘",
+                "meanings": [
+                    "elbow",
+                    "arm"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ちゅう"
+                ],
+                "kunyomi": [
+                    "ひじ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 118,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "附",
+                "meanings": [
+                    "affixed",
+                    "attach",
+                    "refer to",
+                    "append"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ふ"
+                ],
+                "kunyomi": [
+                    "つ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 119,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "訃",
+                "meanings": [
+                    "obituary"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ふ"
+                ],
+                "kunyomi": [
+                    "しらせ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 120,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "賦",
+                "meanings": [
+                    "levy",
+                    "ode",
+                    "prose",
+                    "poem",
+                    "tribute",
+                    "installment"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ふ",
+                    "ぶ"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 121,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "丙",
+                "meanings": [
+                    "third class",
+                    "3rd",
+                    "3rd calendar sign"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "へい"
+                ],
+                "kunyomi": [
+                    "ひのえ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 122,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "蔽",
+                "meanings": [
+                    "cover",
+                    "shade",
+                    "mantle",
+                    "capsize",
+                    "be ruined"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "へい",
+                    "へつ",
+                    "ふつ"
+                ],
+                "kunyomi": [
+                    "おお"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 123,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "倣",
+                "meanings": [
+                    "emulate",
+                    "imitate"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ほう"
+                ],
+                "kunyomi": [
+                    "なら"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 124,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "貌",
+                "meanings": [
+                    "form",
+                    "appearance",
+                    "countenance"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぼう",
+                    "ばく"
+                ],
+                "kunyomi": [
+                    "かたち",
+                    "かたどる"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 125,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "頬",
+                "meanings": [
+                    "cheeks",
+                    "jaw"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "きょう"
+                ],
+                "kunyomi": [
+                    "ほお",
+                    "ほほ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 126,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "勃",
+                "meanings": [
+                    "suddenness",
+                    "rise"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ぼつ",
+                    "ほつ"
+                ],
+                "kunyomi": [
+                    "おこ",
+                    "にわかに"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 127,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "昧",
+                "meanings": [
+                    "dark",
+                    "foolish"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "まい",
+                    "ばい"
+                ],
+                "kunyomi": [
+                    "くら",
+                    "むさぼ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 128,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "耗",
+                "meanings": [
+                    "decrease"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "もう",
+                    "こう"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 129,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "冶",
+                "meanings": [
+                    "melting",
+                    "smelting"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "や"
+                ],
+                "kunyomi": [
+                    "い"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 130,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "喩",
+                "meanings": [
+                    "metaphor",
+                    "compare"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ゆ"
+                ],
+                "kunyomi": [
+                    "たと",
+                    "さと"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 131,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "瘍",
+                "meanings": [
+                    "swelling",
+                    "boil",
+                    "tumor"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "よう"
+                ],
+                "kunyomi": [
+                    "かさ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 132,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "窯",
+                "meanings": [
+                    "kiln",
+                    "oven",
+                    "furnace"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "よう"
+                ],
+                "kunyomi": [
+                    "かま"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 133,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "沃",
+                "meanings": [
+                    "fertility"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "よう",
+                    "よく",
+                    "おく"
+                ],
+                "kunyomi": [
+                    "そそ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 134,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "辣",
+                "meanings": [
+                    "pungent",
+                    "spicy",
+                    "harsh",
+                    "cruel",
+                    "severe"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "らつ"
+                ],
+                "kunyomi": [
+                    "から"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 135,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "濫",
+                "meanings": [
+                    "excessive",
+                    "overflow",
+                    "spread out"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "らん"
+                ],
+                "kunyomi": [
+                    "みだ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 136,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "吏",
+                "meanings": [
+                    "officer",
+                    "an official"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "り"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 137,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "慄",
+                "meanings": [
+                    "fear"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "りつ"
+                ],
+                "kunyomi": [
+                    "ふる",
+                    "おそ",
+                    "おのの"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 138,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "侶",
+                "meanings": [
+                    "companion",
+                    "follower"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "りょ",
+                    "ろ"
+                ],
+                "kunyomi": [
+                    "とも"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 139,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "厘",
+                "meanings": [
+                    "rin",
+                    "1/10 sen",
+                    "1/10 bu"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "りん"
+                ],
+                "kunyomi": [],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 140,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "弄",
+                "meanings": [
+                    "play with",
+                    "tamper",
+                    "trifle with"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ろう",
+                    "る"
+                ],
+                "kunyomi": [
+                    "いじく",
+                    "ろう",
+                    "いじ",
+                    "ひねく",
+                    "たわむ",
+                    "もてあそ"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 141,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "楼",
+                "meanings": [
+                    "watchtower",
+                    "lookout",
+                    "high building"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ろう"
+                ],
+                "kunyomi": [
+                    "たかどの"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 142,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "籠",
+                "meanings": [
+                    "basket",
+                    "devote oneself",
+                    "seclude oneself",
+                    "cage",
+                    "coop",
+                    "implied"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ろう",
+                    "る"
+                ],
+                "kunyomi": [
+                    "かご",
+                    "こ",
+                    "こも"
+                ],
+                "reading_expl": "no explanation"
+            }
+        },
+        {
+            "id": 143,
+            "last_reviewed_at": 0,
+            "info": {
+                "type": "Kanji",
+                "characters": "麓",
+                "meanings": [
+                    "foot of a mountain"
+                ],
+                "srs_lvl": 0,
+                "meaning_expl": "no explanation",
+                "lvl": 1,
+                "category": "Kanji",
+                "primary_reading_type": "onyomi",
+                "onyomi": [
+                    "ろく"
+                ],
+                "kunyomi": [
+                    "ふもと"
+                ],
+                "reading_expl": "no explanation"
+            }
+        }
+    ],
+    "active": true,
+    "nextID": 144,
+    "lvlType": "wk",
+    "lvl": "1"
+}
