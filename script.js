@@ -50,7 +50,6 @@ for(let kanji of kanjiList.split(" "))
     pack.items.push
     ({
         id: id,
-        last_reviewed_at: 0,
         info: 
         {
             type: "Kanji",

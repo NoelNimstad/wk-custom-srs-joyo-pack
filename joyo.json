@@ -5,7 +5,6 @@
     "items": [
         {
             "id": 0,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "蚕",
@@ -30,7 +29,6 @@
         },
         {
             "id": 1,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "曖",
@@ -54,7 +52,6 @@
         },
         {
             "id": 2,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "畏",
@@ -82,7 +79,6 @@
         },
         {
             "id": 3,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "萎",
@@ -110,7 +106,6 @@
         },
         {
             "id": 4,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "彙",
@@ -137,7 +132,6 @@
         },
         {
             "id": 5,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "壱",
@@ -161,7 +155,6 @@
         },
         {
             "id": 6,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "咽",
@@ -191,7 +184,6 @@
         },
         {
             "id": 7,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "淫",
@@ -218,7 +210,6 @@
         },
         {
             "id": 8,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "韻",
@@ -241,7 +232,6 @@
         },
         {
             "id": 9,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "畝",
@@ -271,7 +261,6 @@
         },
         {
             "id": 10,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "謁",
@@ -293,7 +282,6 @@
         },
         {
             "id": 11,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "怨",
@@ -321,7 +309,6 @@
         },
         {
             "id": 12,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "艶",
@@ -352,7 +339,6 @@
         },
         {
             "id": 13,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "旺",
@@ -382,7 +368,6 @@
         },
         {
             "id": 14,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "翁",
@@ -405,7 +390,6 @@
         },
         {
             "id": 15,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "臆",
@@ -434,7 +418,6 @@
         },
         {
             "id": 16,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "虞",
@@ -469,7 +452,6 @@
         },
         {
             "id": 17,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "箇",
@@ -491,7 +473,6 @@
         },
         {
             "id": 18,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "瓦",
@@ -516,7 +497,6 @@
         },
         {
             "id": 19,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "楷",
@@ -538,7 +518,6 @@
         },
         {
             "id": 20,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "潰",
@@ -566,7 +545,6 @@
         },
         {
             "id": 21,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "諧",
@@ -590,7 +568,6 @@
         },
         {
             "id": 22,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "蓋",
@@ -621,7 +598,6 @@
         },
         {
             "id": 23,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "骸",
@@ -647,7 +623,6 @@
         },
         {
             "id": 24,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "柿",
@@ -670,7 +645,6 @@
         },
         {
             "id": 25,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嚇",
@@ -696,7 +670,6 @@
         },
         {
             "id": 26,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "顎",
@@ -722,7 +695,6 @@
         },
         {
             "id": 27,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "葛",
@@ -748,7 +720,6 @@
         },
         {
             "id": 28,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "褐",
@@ -770,7 +741,6 @@
         },
         {
             "id": 29,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "釜",
@@ -795,7 +765,6 @@
         },
         {
             "id": 30,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "棺",
@@ -817,7 +786,6 @@
         },
         {
             "id": 31,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "玩",
@@ -844,7 +812,6 @@
         },
         {
             "id": 32,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "毀",
@@ -876,7 +843,6 @@
         },
         {
             "id": 33,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "畿",
@@ -900,7 +866,6 @@
         },
         {
             "id": 34,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "臼",
@@ -925,7 +890,6 @@
         },
         {
             "id": 35,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嗅",
@@ -950,7 +914,6 @@
         },
         {
             "id": 36,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "僅",
@@ -974,7 +937,6 @@
         },
         {
             "id": 37,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "惧",
@@ -1000,7 +962,6 @@
         },
         {
             "id": 38,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "窟",
@@ -1026,7 +987,6 @@
         },
         {
             "id": 39,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "薫",
@@ -1052,7 +1012,6 @@
         },
         {
             "id": 40,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "詣",
@@ -1081,7 +1040,6 @@
         },
         {
             "id": 41,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "憬",
@@ -1106,7 +1064,6 @@
         },
         {
             "id": 42,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "稽",
@@ -1131,7 +1088,6 @@
         },
         {
             "id": 43,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "桁",
@@ -1157,7 +1113,6 @@
         },
         {
             "id": 44,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "繭",
@@ -1181,7 +1136,6 @@
         },
         {
             "id": 45,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "舷",
@@ -1205,7 +1159,6 @@
         },
         {
             "id": 46,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "錮",
@@ -1229,7 +1182,6 @@
         },
         {
             "id": 47,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "勾",
@@ -1256,7 +1208,6 @@
         },
         {
             "id": 48,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "侯",
@@ -1279,7 +1230,6 @@
         },
         {
             "id": 49,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "梗",
@@ -1307,7 +1257,6 @@
         },
         {
             "id": 50,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "乞",
@@ -1336,7 +1285,6 @@
         },
         {
             "id": 51,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "痕",
@@ -1360,7 +1308,6 @@
         },
         {
             "id": 52,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "墾",
@@ -1385,7 +1332,6 @@
         },
         {
             "id": 53,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "挫",
@@ -1412,7 +1358,6 @@
         },
         {
             "id": 54,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "采",
@@ -1441,7 +1386,6 @@
         },
         {
             "id": 55,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "塞",
@@ -1471,7 +1415,6 @@
         },
         {
             "id": 56,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "刹",
@@ -1494,7 +1437,6 @@
         },
         {
             "id": 57,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "恣",
@@ -1518,7 +1460,6 @@
         },
         {
             "id": 58,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嗣",
@@ -1540,7 +1481,6 @@
         },
         {
             "id": 59,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "摯",
@@ -1566,7 +1506,6 @@
         },
         {
             "id": 60,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "賜",
@@ -1594,7 +1533,6 @@
         },
         {
             "id": 61,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "餌",
@@ -1624,7 +1562,6 @@
         },
         {
             "id": 62,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "璽",
@@ -1645,7 +1582,6 @@
         },
         {
             "id": 63,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嫉",
@@ -1671,7 +1607,6 @@
         },
         {
             "id": 64,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "爵",
@@ -1694,7 +1629,6 @@
         },
         {
             "id": 65,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "腫",
@@ -1720,7 +1654,6 @@
         },
         {
             "id": 66,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "儒",
@@ -1741,7 +1674,6 @@
         },
         {
             "id": 67,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "羞",
@@ -1766,7 +1698,6 @@
         },
         {
             "id": 68,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "愁",
@@ -1792,7 +1723,6 @@
         },
         {
             "id": 69,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "遵",
@@ -1816,7 +1746,6 @@
         },
         {
             "id": 70,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "抄",
@@ -1841,7 +1770,6 @@
         },
         {
             "id": 71,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "宵",
@@ -1866,7 +1794,6 @@
         },
         {
             "id": 72,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "硝",
@@ -1888,7 +1815,6 @@
         },
         {
             "id": 73,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "詔",
@@ -1911,7 +1837,6 @@
         },
         {
             "id": 74,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "拭",
@@ -1938,7 +1863,6 @@
         },
         {
             "id": 75,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "薪",
@@ -1964,7 +1888,6 @@
         },
         {
             "id": 76,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "腎",
@@ -1985,7 +1908,6 @@
         },
         {
             "id": 77,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "裾",
@@ -2011,7 +1933,6 @@
         },
         {
             "id": 78,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "醒",
@@ -2036,7 +1957,6 @@
         },
         {
             "id": 79,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "斥",
@@ -2064,7 +1984,6 @@
         },
         {
             "id": 80,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "腺",
@@ -2086,7 +2005,6 @@
         },
         {
             "id": 81,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "詮",
@@ -2114,7 +2032,6 @@
         },
         {
             "id": 82,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "箋",
@@ -2140,7 +2057,6 @@
         },
         {
             "id": 83,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "膳",
@@ -2167,7 +2083,6 @@
         },
         {
             "id": 84,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "繕",
@@ -2195,7 +2110,6 @@
         },
         {
             "id": 85,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "塑",
@@ -2219,7 +2133,6 @@
         },
         {
             "id": 86,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "遡",
@@ -2244,7 +2157,6 @@
         },
         {
             "id": 87,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "曽",
@@ -2276,7 +2188,6 @@
         },
         {
             "id": 88,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "踪",
@@ -2302,7 +2213,6 @@
         },
         {
             "id": 89,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "唾",
@@ -2328,7 +2238,6 @@
         },
         {
             "id": 90,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "堆",
@@ -2352,7 +2261,6 @@
         },
         {
             "id": 91,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "但",
@@ -2376,7 +2284,6 @@
         },
         {
             "id": 92,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "綻",
@@ -2404,7 +2311,6 @@
         },
         {
             "id": 93,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "緻",
@@ -2427,7 +2333,6 @@
         },
         {
             "id": 94,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "逐",
@@ -2453,7 +2358,6 @@
         },
         {
             "id": 95,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嫡",
@@ -2476,7 +2380,6 @@
         },
         {
             "id": 96,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "衷",
@@ -2500,7 +2403,6 @@
         },
         {
             "id": 97,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "嘲",
@@ -2525,7 +2427,6 @@
         },
         {
             "id": 98,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "勅",
@@ -2549,7 +2450,6 @@
         },
         {
             "id": 99,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "捗",
@@ -2573,7 +2473,6 @@
         },
         {
             "id": 100,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "朕",
@@ -2595,7 +2494,6 @@
         },
         {
             "id": 101,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "逓",
@@ -2621,7 +2519,6 @@
         },
         {
             "id": 102,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "溺",
@@ -2648,7 +2545,6 @@
         },
         {
             "id": 103,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "填",
@@ -2675,7 +2571,6 @@
         },
         {
             "id": 104,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "妬",
@@ -2703,7 +2598,6 @@
         },
         {
             "id": 105,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "痘",
@@ -2725,7 +2619,6 @@
         },
         {
             "id": 106,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "謄",
@@ -2747,7 +2640,6 @@
         },
         {
             "id": 107,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "頓",
@@ -2781,7 +2673,6 @@
         },
         {
             "id": 108,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "貪",
@@ -2807,7 +2698,6 @@
         },
         {
             "id": 109,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "弐",
@@ -2834,7 +2724,6 @@
         },
         {
             "id": 110,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "捻",
@@ -2862,7 +2751,6 @@
         },
         {
             "id": 111,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "罵",
@@ -2886,7 +2774,6 @@
         },
         {
             "id": 112,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "剥",
@@ -2916,7 +2803,6 @@
         },
         {
             "id": 113,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "氾",
@@ -2940,7 +2826,6 @@
         },
         {
             "id": 114,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "汎",
@@ -2968,7 +2853,6 @@
         },
         {
             "id": 115,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "斑",
@@ -2995,7 +2879,6 @@
         },
         {
             "id": 116,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "頒",
@@ -3021,7 +2904,6 @@
         },
         {
             "id": 117,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "肘",
@@ -3045,7 +2927,6 @@
         },
         {
             "id": 118,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "附",
@@ -3071,7 +2952,6 @@
         },
         {
             "id": 119,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "訃",
@@ -3094,7 +2974,6 @@
         },
         {
             "id": 120,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "賦",
@@ -3121,7 +3000,6 @@
         },
         {
             "id": 121,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "丙",
@@ -3146,7 +3024,6 @@
         },
         {
             "id": 122,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "蔽",
@@ -3175,7 +3052,6 @@
         },
         {
             "id": 123,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "倣",
@@ -3199,7 +3075,6 @@
         },
         {
             "id": 124,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "貌",
@@ -3226,7 +3101,6 @@
         },
         {
             "id": 125,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "頬",
@@ -3251,7 +3125,6 @@
         },
         {
             "id": 126,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "勃",
@@ -3277,7 +3150,6 @@
         },
         {
             "id": 127,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "昧",
@@ -3303,7 +3175,6 @@
         },
         {
             "id": 128,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "耗",
@@ -3325,7 +3196,6 @@
         },
         {
             "id": 129,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "冶",
@@ -3349,7 +3219,6 @@
         },
         {
             "id": 130,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "喩",
@@ -3374,7 +3243,6 @@
         },
         {
             "id": 131,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "瘍",
@@ -3399,7 +3267,6 @@
         },
         {
             "id": 132,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "窯",
@@ -3424,7 +3291,6 @@
         },
         {
             "id": 133,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "沃",
@@ -3449,7 +3315,6 @@
         },
         {
             "id": 134,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "辣",
@@ -3476,7 +3341,6 @@
         },
         {
             "id": 135,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "濫",
@@ -3501,7 +3365,6 @@
         },
         {
             "id": 136,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "吏",
@@ -3523,7 +3386,6 @@
         },
         {
             "id": 137,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "慄",
@@ -3548,7 +3410,6 @@
         },
         {
             "id": 138,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "侶",
@@ -3573,7 +3434,6 @@
         },
         {
             "id": 139,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "厘",
@@ -3596,7 +3456,6 @@
         },
         {
             "id": 140,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "弄",
@@ -3627,7 +3486,6 @@
         },
         {
             "id": 141,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "楼",
@@ -3652,7 +3510,6 @@
         },
         {
             "id": 142,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "籠",
@@ -3683,7 +3540,6 @@
         },
         {
             "id": 143,
-            "last_reviewed_at": 0,
             "info": {
                 "type": "Kanji",
                 "characters": "麓",
